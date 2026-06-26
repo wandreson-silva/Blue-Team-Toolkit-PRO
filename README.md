@@ -14,3 +14,13 @@ Desktop
       ├ executar_toolkit.bat
       └ logs
 ````
+Esse toolkit consegue detectar
+```text
+✔ portas abertas
+✔ hosts na rede
+✔ port scan suspeito
+✔ processos usando rede
+✔ IPs externos conectados
+✔ possível ARP spoofing
+
+```
