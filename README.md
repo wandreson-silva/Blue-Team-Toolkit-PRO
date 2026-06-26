@@ -1,2 +1,16 @@
 # Blue Team Toolkit PRO
-Ferramenta de análise
+🛡️ Blue Team Toolkit PRO
+
+Estrutura recomendada:
+```text
+Desktop
+ └ BlueTeamToolkitPro
+      ├ monitor_rede.ps1
+      ├ scanner_rede.ps1
+      ├ detector_portscan.ps1
+      ├ detector_arp.ps1
+      ├ mapa_ips.ps1
+      ├ processos_rede.ps1
+      ├ executar_toolkit.bat
+      └ logs
+````
